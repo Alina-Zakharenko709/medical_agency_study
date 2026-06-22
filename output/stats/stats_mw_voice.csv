@@ -1,0 +1,6 @@
+metric,mean_active,mean_passive,U,p_value,effect_r,sig_p05
+compound,0.006,-0.024,3118218.5,0.0461,0.024,True
+intensity,0.2846,0.3142,2819310.0,0.0013,0.0386,True
+negative,0.08,0.0781,2871624.0,0.0117,0.0304,True
+positive,0.0802,0.07,2975543.5,0.5929,0.0064,False
+affective_words,0.0851,0.0793,3026510.0,0.4108,0.0099,False

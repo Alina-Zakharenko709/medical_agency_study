@@ -1,0 +1,6 @@
+metric,mean_patient,mean_caregiver,U,p_value,effect_r,sig_p05
+mean_agency_score,0.6085,0.5988,1463.5,0.2016,0.1271,False
+passive_ratio,0.2053,0.1138,2019.5,0.0,0.5029,True
+active_ratio,0.7947,0.8862,530.5,0.0,0.5029,True
+first_person_count,39.5882,30.66,1781.0,0.0006,0.3418,True
+agency_verb_count,6.7843,7.8,1102.0,0.2381,0.1174,False

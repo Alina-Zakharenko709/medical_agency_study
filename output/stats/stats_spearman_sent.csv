@@ -1,0 +1,6 @@
+predictor,outcome,rho,p_value,n,sig_p05
+agency_score,compound,0.0283,0.0186,6900,True
+agency_score,intensity,0.0069,0.5664,6900,False
+agency_score,negative,-0.0235,0.0514,6900,False
+agency_score,positive,0.0099,0.4087,6900,False
+agency_score,affective_words,0.0305,0.0113,6900,True

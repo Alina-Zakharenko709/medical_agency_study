@@ -1,0 +1,6 @@
+metric,mean_patient,mean_caregiver,U,p_value,effect_r,sig_p05
+mean_compound,-0.0207,0.0314,853.0,0.0042,0.2849,True
+mean_intensity,0.3189,0.2688,1828.0,0.0002,0.3734,True
+mean_negative,0.0871,0.0695,1791.0,0.0005,0.3484,True
+mean_positive,0.078,0.0801,1208.0,0.6515,0.0449,False
+affective_density,0.1044,0.0677,1676.5,0.0065,0.271,True

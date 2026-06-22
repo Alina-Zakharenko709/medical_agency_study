@@ -1,0 +1,6 @@
+predictor,outcome,rho,p_value,n,sig_p05
+mean_agency_score,mean_compound,-0.1547,0.1224,101,False
+mean_agency_score,mean_intensity,-0.1729,0.0838,101,False
+mean_agency_score,mean_negative,0.0735,0.4648,101,False
+mean_agency_score,mean_positive,-0.1909,0.0559,101,False
+mean_agency_score,affective_density,-0.1344,0.1803,101,False
